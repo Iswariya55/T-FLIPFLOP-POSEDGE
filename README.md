@@ -43,7 +43,8 @@ input. */
 
 **PROGRAM**
 
-![image](https://github.com/user-attachments/assets/5aef2ba0-aa98-4038-9c2e-a548f1d0bb23)
+![Screenshot 2025-01-05 045632](https://github.com/user-attachments/assets/94c818d3-c5b7-42b9-bdd7-689bee092ae4)
+
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 Developed by:Iswariya RegisterNumber:24900725 */
@@ -54,7 +55,7 @@ Developed by:Iswariya RegisterNumber:24900725 */
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/user-attachments/assets/8061a6dc-f17e-47b6-aa2e-d357bb6643da)
+![Screenshot 2025-01-05 045612](https://github.com/user-attachments/assets/225f5571-681c-47ff-8ee8-53dce04e78b6)
 
 **RESULTS**
 
